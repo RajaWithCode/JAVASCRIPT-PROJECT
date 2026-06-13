@@ -18,8 +18,9 @@ A simple Todo List application built using HTML, CSS, and JavaScript.
 
 ## Project Preview
 
-![Todo List Screenshot](<img width="1919" height="911" alt="Screenshot 2026-06-11 195955" src="https://github.com/user-attachments/assets/f13c2573-2e47-4162-a21a-579767dc7f75" />
-)
+![Todo List Screenshot]
+<img width="1919" height="911" alt="Screenshot 2026-06-11 195955" src="https://github.com/user-attachments/assets/f13c2573-2e47-4162-a21a-579767dc7f75" />
+
 
 ## How to Use
 
