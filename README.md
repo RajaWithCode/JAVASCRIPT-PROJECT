@@ -35,4 +35,4 @@ A simple Todo List application built using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/RajaWithCode/todo-list.git
