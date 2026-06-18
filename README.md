@@ -7,7 +7,6 @@ A simple Todo List application built using HTML, CSS, and JavaScript.
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
-- Responsive design
 - Easy and user-friendly interface
 
 ## Technologies Used
