@@ -98,7 +98,7 @@ function addDragEventsOnColumn(column) {
     column.addEventListener("drop", (e) => {
         e.preventDefault();
 
-        console.log("dropped", dragElement, column);
+        // console.log("dropped", dragElement, column);
 
         column.appendChild(dragElement);
         column.classList.remove("hover-over");
