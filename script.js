@@ -58,7 +58,7 @@ function updateTaskCount() {
 if (localStorage.getItem("tasks")) {
 
     const data = JSON.parse(localStorage.getItem("tasks"));
-    console.log(data)
+    // console.log(data)
 
     for (const col in data) {
         const column = document.querySelector(`#${col}`);
